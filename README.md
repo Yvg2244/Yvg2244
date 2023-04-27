@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Sathi (A platform for CHEAP travel)**
+- 🔭 I’m currently working on **DevsClash - 1v1 combat game for coders**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next**
 
 - 👨‍💻 All of my projects are available at [https://yvgupta.netlify.app/](https://yvgupta.netlify.app/)
 
