@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next**
 
-- 👨‍💻 All of my projects are available at [https://yvgupta.netlify.app/](https://yvgupta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yvgupta.vercel.app/](https://yvgupta.vercel.app/)
 
 - 💬 Ask me about **FrontEnd**
 
-- 📫 How to reach me **yvgupta24@gmail.com**
+- 📫 How to reach me **yvgupta.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
